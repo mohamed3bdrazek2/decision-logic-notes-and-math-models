@@ -12,3 +12,7 @@ Notes on quantitative decision-making and mathematical models like decision tree
 ### Markov Chains
 * [Introduction to Markov Chains](markov-chains/basics.md)
 * [Markov Chain State Diagram](markov-chains/state-diagram.md)
+  
+### Bayesian Networks
+* [Introduction to Bayesian Networks](bayesian-networks/intro.md)
+* [Bayesian Network DAG](bayesian-networks/dag-diagram.md)
