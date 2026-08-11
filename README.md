@@ -20,3 +20,7 @@ Notes on quantitative decision-making and mathematical models like decision tree
 ### Queuing Theory
 * [Introduction to Queuing Theory](queuing-theory/intro.md)
 * [Basic Queue Diagram](queuing-theory/queue-diagram.md)
+
+### Monte Carlo Simulations
+* [Introduction to Monte Carlo Simulations](monte-carlo-simulations/intro.md)
+* [Monte Carlo Process Flow](monte-carlo-simulations/process-diagram.md)
